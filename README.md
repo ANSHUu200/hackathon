@@ -1,6 +1,8 @@
 # Cloud Cost Intelligence
 
-**AI Cloud Deployment Advisor – Predict Cost & Optimize Architecture Before You Deploy**
+AI Cloud Deployment Advisor
+Predict Cost & Optimize Architecture Before You Deploy
+
 
 🚀 **We built an AI that tells developers how to deploy before they deploy.**
 
