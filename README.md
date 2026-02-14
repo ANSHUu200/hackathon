@@ -1,4 +1,4 @@
-# Cloud Cost Intelligence
+# AI Cloud Deployment Advisor
 
 AI Cloud Deployment Advisor
 Predict Cost & Optimize Architecture Before You Deploy
