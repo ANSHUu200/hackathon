@@ -3,6 +3,8 @@
 AI Cloud Deployment Advisor
 Predict Cost & Optimize Architecture Before You Deploy
 > An AI system that predicts cloud cost, compares AWS/Azure/GCP, and recommends the best architecture BEFORE deployment to prevent overspending.
+## 🚀 Live Dashboard Preview
+![AI Cloud Deployment Advisor Dashboard](docs/dashboard.png)
 
 
 🚀 **We built an AI that tells developers how to deploy before they deploy.**
@@ -77,11 +79,6 @@ The AI detects low traffic pattern and suggests:
 
 The developer avoided a wrong deployment before launching.
 
-## 🎨 Demo Preview
-
-![Dashboard](docs/dashboard.png)
-
-*Interactive dashboard showing multi-cloud cost comparison, AI-powered optimization suggestions, and intelligent reasoning*
 
 ## 🚀 Key Features
 
