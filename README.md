@@ -6,6 +6,30 @@ Predict Cost & Optimize Architecture Before You Deploy
 ## 🚀 Live Dashboard Preview
 ![AI Cloud Deployment Advisor Dashboard](docs/dashboard.png)
 
+## ⚡ Example AI Decision (Real Output)
+
+### 🧾 Input Workload
+- Requests: **100,000 / month**
+- Execution Time: **200ms**
+- Memory: **2048MB**
+- Service: **Serverless API**
+
+---
+
+### 🤖 AI Recommendation
+- **Best Provider:** GCP Cloud Functions
+- **Optimized Memory:** 512MB
+- **Estimated Monthly Cost:** $3.80
+- **Previous Cost:** $12.50
+- **Savings:** **69%**
+
+---
+
+### 🧠 AI Reasoning
+> Memory allocation is excessive for a low-traffic API workload.  
+> GCP provides a better free tier and lower compute pricing for this pattern.
+
+
 
 🚀 **We built an AI that tells developers how to deploy before they deploy.**
 
