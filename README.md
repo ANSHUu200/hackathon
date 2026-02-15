@@ -1,8 +1,25 @@
 # AI Cloud Deployment Advisor
 
-AI Cloud Deployment Advisor
-Predict Cost & Optimize Architecture Before You Deploy
-> An AI system that predicts cloud cost, compares AWS/Azure/GCP, and recommends the best architecture BEFORE deployment to prevent overspending.
+An AI Cloud Deployment Advisor that understands a developer’s workload intent and recommends the optimal multi-cloud architecture before deployment.
+
+## Problem
+Developers usually deploy first and understand cloud costs later, causing 30–60% unnecessary spending.
+
+## Solution
+The system uses AI workload understanding to interpret application intent (API, batch, burst traffic, long-running compute) and predicts the most efficient architecture across AWS, Azure and GCP before deployment.
+
+Instead of cost monitoring, we prevent incorrect technical decisions.
+
+## AI Component
+The platform uses an AI reasoning engine that infers infrastructure requirements from workload patterns and configuration signals.
+It classifies workload type, detects over-provisioning, and generates architecture recommendations with explanation.
+
+This behaves as a Cloud Architect Copilot — not a pricing calculator — because it interprets intent rather than only computing cost.
+
+## Impact for India (AI for Bharat)
+Students, startups and small teams often exhaust cloud credits due to wrong architecture choices.
+This system acts as a safety layer guiding first-time cloud users before deployment, reducing financial risk and improving accessibility to cloud adoption.
+
 ## 🚀 Live Dashboard Preview
 ![AI Cloud Deployment Advisor Dashboard](docs/dashboard.png)
 
@@ -69,7 +86,7 @@ Startups and student developers frequently overspend on cloud services due to la
 
 ## 💡 Solution
 
-AI Cloud Deployment Advisor acts as an **AI Cloud Architect Copilot** that analyzes your workload configuration and provides:
+AI Cloud Deployment Advisor acts as an **AI Cloud Deployment Advisor** that analyzes your workload configuration and provides:
 
 ✅ **Multi-Provider Cost Predictions** – Instant cost estimates across AWS, Azure, and GCP  
 ✅ **Intelligent Comparisons** – Side-by-side provider analysis with clear recommendations  
