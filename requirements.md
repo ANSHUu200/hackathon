@@ -3,11 +3,11 @@
 
 ## Introduction
 
-Cloud Cost Intelligence is an AI-powered cloud cost advisor that helps developers make informed deployment decisions before deploying infrastructure. The system analyzes workload configurations and provides cost predictions, provider comparisons, optimization recommendations, and AI-generated reasoning across AWS, Azure, and GCP.
+AI Cloud Deployment Advisor is an AI-powered cloud cost advisor that helps developers make informed deployment decisions before deploying infrastructure. The system analyzes workload configurations and provides cost predictions, provider comparisons, optimization recommendations, and AI-generated reasoning across AWS, Azure, and GCP.
 
 ## Glossary
 
-- **System**: The Cloud Cost Intelligence AI Cloud Architect Copilot
+- **System**: The AI Cloud Deployment Advisor AI Cloud Architect Copilot
 - **User**: A developer or cloud architect using the system to evaluate deployment options
 - **Workload_Configuration**: A set of parameters describing compute requirements (memory, execution time, requests, storage, service type, region)
 - **Cost_Engine**: The component responsible for calculating cost estimates based on cloud provider pricing models
