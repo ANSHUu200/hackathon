@@ -1,8 +1,8 @@
-# Design Document: Cloud Cost Intelligence AI Cloud Architect Copilot
+# Design Document: AI Cloud Deployment Advisor AI Cloud Architect Copilot
 
 ## Overview
 
-Cloud Cost Intelligence is an AI-powered cloud cost advisor that provides intelligent, pre-deployment cost analysis and optimization recommendations across AWS, Azure, and GCP. The system combines real-time pricing data with AI-driven workload analysis to deliver actionable insights that help developers make informed infrastructure decisions.
+AI Cloud Deployment Advisor is an AI-powered cloud cost advisor that provides intelligent, pre-deployment cost analysis and optimization recommendations across AWS, Azure, and GCP. The system combines real-time pricing data with AI-driven workload analysis to deliver actionable insights that help developers make informed infrastructure decisions.
 
 The system architecture follows a layered approach: a web-based frontend for user interaction, a RESTful API layer for request handling, a cost calculation engine for multi-provider pricing analysis, an AI reasoning layer for intelligent recommendations, and a data layer for pricing model storage.
 
