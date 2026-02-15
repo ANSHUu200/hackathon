@@ -1,8 +1,8 @@
-# Cloud Cost Intelligence - System Architecture
+# AI Cloud Deployment Advisor - System Architecture
 
 ## Executive Summary
 
-Cloud Cost Intelligence is an AI-powered cloud cost advisor that provides intelligent, pre-deployment cost analysis across AWS, Azure, and GCP. The system combines real-time pricing data with AI-driven workload analysis to deliver actionable cost optimization recommendations before infrastructure deployment.
+AI Cloud Deployment Advisor is an AI-powered cloud cost advisor that provides intelligent, pre-deployment cost analysis across AWS, Azure, and GCP. The system combines real-time pricing data with AI-driven workload analysis to deliver actionable cost optimization recommendations before infrastructure deployment.
 
 ## Architecture Overview
 
@@ -909,7 +909,7 @@ flowchart LR
 
 ## Conclusion
 
-Cloud Cost Intelligence provides a robust, scalable architecture for AI-powered cloud cost analysis. The layered architecture ensures separation of concerns, testability, and extensibility. The AI Reasoning Layer delivers intelligent recommendations that help developers make informed infrastructure decisions before deployment, potentially saving thousands of dollars in cloud costs.
+AI Cloud Deployment Advisor provides a robust, scalable architecture for AI-powered cloud cost analysis. The layered architecture ensures separation of concerns, testability, and extensibility. The AI Reasoning Layer delivers intelligent recommendations that help developers make informed infrastructure decisions before deployment, potentially saving thousands of dollars in cloud costs.
 
 The system is designed for rapid development (suitable for hackathon timeline) while maintaining production-ready architecture principles that support future growth and enhancement.
 
