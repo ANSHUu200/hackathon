@@ -33,7 +33,7 @@ Predict Cost & Optimize Architecture Before You Deploy
 
 🚀 **We built an AI that tells developers how to deploy before they deploy.**
 
-> Cloud Cost Intelligence is an AI system that predicts cloud cost, compares providers, and recommends the best architecture BEFORE deployment. It prevents 30–60% cloud overspending.
+> AI Cloud Deployment Advisor is an AI system that predicts cloud cost, compares providers, and recommends the best architecture BEFORE deployment. It prevents 30–60% cloud overspending.
 
 **Unlike FinOps tools, this works pre-deployment instead of post-billing.**
 
@@ -65,11 +65,11 @@ This allows architecture-level recommendations rather than simple pricing estima
 
 ### Real-World Impact
 
-Startups and student developers frequently overspend on cloud services due to lack of architectural guidance. A single wrong configuration (memory size, region, or service type) can increase monthly cost by 3-10×. Cloud Cost Intelligence acts as a preventive system — stopping cost mistakes before deployment rather than detecting them after billing. This shifts cloud cost management from reactive FinOps → proactive AI-assisted decision making.
+Startups and student developers frequently overspend on cloud services due to lack of architectural guidance. A single wrong configuration (memory size, region, or service type) can increase monthly cost by 3-10×. AI Cloud Deployment Advisor acts as a preventive system — stopping cost mistakes before deployment rather than detecting them after billing. This shifts cloud cost management from reactive FinOps → proactive AI-assisted decision making.
 
 ## 💡 Solution
 
-Cloud Cost Intelligence acts as an **AI Cloud Architect Copilot** that analyzes your workload configuration and provides:
+AI Cloud Deployment Advisor acts as an **AI Cloud Architect Copilot** that analyzes your workload configuration and provides:
 
 ✅ **Multi-Provider Cost Predictions** – Instant cost estimates across AWS, Azure, and GCP  
 ✅ **Intelligent Comparisons** – Side-by-side provider analysis with clear recommendations  
@@ -134,7 +134,7 @@ The developer avoided a wrong deployment before launching.
 
 ## 🏗️ Architecture
 
-Cloud Cost Intelligence follows a layered architecture with clear separation of concerns:
+AI Cloud Deployment Advisor follows a layered architecture with clear separation of concerns:
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -484,4 +484,4 @@ We welcome contributions from the community! Please read our [Contributing Guide
 
 **Built to prevent cloud waste before it happens.**
 
-*Cloud Cost Intelligence – Make informed deployment decisions before spending a dollar*
+*AI Cloud Deployment Advisor – Make informed deployment decisions before spending a dollar*
